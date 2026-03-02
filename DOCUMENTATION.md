@@ -1,9 +1,4 @@
 # Project Documentation
-
-## Author
-Name: Dimple K B  
-Branch: dimple-documentation  
-
 ---
 
 ## Project Title
