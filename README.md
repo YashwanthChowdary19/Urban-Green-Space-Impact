@@ -192,17 +192,14 @@ print("Predicted Temperature:", prediction[0], "°C")
 
 ## 📁 Project Structure
 
-Urban-Heat-Island-Prediction/  
-│  
-│── final_dataset.csv  
-│  
-|── linear_regression_model.ipynb  
-│  
-├── README.md  
-|
-└── requirements.txt  
-
----
+```
+Urban-Heat-Island-Prediction/
+│
+├── final_dataset.csv                # Cleaned dataset used for training
+├── linear_regression_model.ipynb    # Model building & analysis notebook
+├── README.md                        # Project documentation
+└── requirements.txt                 # Required Python libraries
+```
 
 ## 🌎 Real-World Applications
 
